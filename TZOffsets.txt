@@ -1,0 +1,615 @@
+Etc/GMT+12	GMT-12:00	-12
+Etc/GMT+11	GMT-11:00	-11
+Pacific/Midway	Samoa Standard Time	-11
+Pacific/Niue	Niue Time	-11
+Pacific/Pago_Pago	Samoa Standard Time	-11
+Pacific/Samoa	Samoa Standard Time	-11
+US/Samoa	Samoa Standard Time	-11
+America/Adak	Hawaii-Aleutian Standard Time	-10
+America/Atka	Hawaii-Aleutian Standard Time	-10
+Etc/GMT+10	GMT-10:00	-10
+HST	Hawaii Standard Time	-10
+Pacific/Fakaofo	Tokelau Time	-10
+Pacific/Honolulu	Hawaii Standard Time	-10
+Pacific/Johnston	Hawaii Standard Time	-10
+Pacific/Rarotonga	Cook Is. Time	-10
+Pacific/Tahiti	Tahiti Time	-10
+SystemV/HST10	Hawaii Standard Time	-10
+US/Aleutian	Hawaii-Aleutian Standard Time	-10
+US/Hawaii	Hawaii Standard Time	-10
+Pacific/Marquesas	Marquesas Time	-9.5
+AST	Alaska Standard Time	-9
+America/Anchorage	Alaska Standard Time	-9
+America/Juneau	Alaska Standard Time	-9
+America/Nome	Alaska Standard Time	-9
+America/Sitka	Alaska Standard Time	-9
+America/Yakutat	Alaska Standard Time	-9
+Etc/GMT+9	GMT-09:00	-9
+Pacific/Gambier	Gambier Time	-9
+SystemV/YST9	Alaska Standard Time	-9
+SystemV/YST9YDT	Alaska Standard Time	-9
+US/Alaska	Alaska Standard Time	-9
+America/Dawson	Pacific Standard Time	-8
+America/Ensenada	Pacific Standard Time	-8
+America/Los_Angeles	Pacific Standard Time	-8
+America/Metlakatla	Metlakatla Standard Time	-8
+America/Santa_Isabel	Pacific Standard Time	-8
+America/Tijuana	Pacific Standard Time	-8
+America/Vancouver	Pacific Standard Time	-8
+America/Whitehorse	Pacific Standard Time	-8
+Canada/Pacific	Pacific Standard Time	-8
+Canada/Yukon	Pacific Standard Time	-8
+Etc/GMT+8	GMT-08:00	-8
+Mexico/BajaNorte	Pacific Standard Time	-8
+PST	Pacific Standard Time	-8
+PST8PDT	Pacific Standard Time	-8
+Pacific/Pitcairn	Pitcairn Standard Time	-8
+SystemV/PST8	Pacific Standard Time	-8
+SystemV/PST8PDT	Pacific Standard Time	-8
+US/Pacific	Pacific Standard Time	-8
+US/Pacific-New	Pacific Standard Time	-8
+America/Boise	Mountain Standard Time	-7
+America/Cambridge_Bay	Mountain Standard Time	-7
+America/Chihuahua	Mountain Standard Time	-7
+America/Dawson_Creek	Mountain Standard Time	-7
+America/Denver	Mountain Standard Time	-7
+America/Edmonton	Mountain Standard Time	-7
+America/Hermosillo	Mountain Standard Time	-7
+America/Inuvik	Mountain Standard Time	-7
+America/Mazatlan	Mountain Standard Time	-7
+America/Ojinaga	Mountain Standard Time	-7
+America/Phoenix	Mountain Standard Time	-7
+America/Shiprock	Mountain Standard Time	-7
+America/Yellowknife	Mountain Standard Time	-7
+Canada/Mountain	Mountain Standard Time	-7
+Etc/GMT+7	GMT-07:00	-7
+MST	Mountain Standard Time	-7
+MST7MDT	Mountain Standard Time	-7
+Mexico/BajaSur	Mountain Standard Time	-7
+Navajo	Mountain Standard Time	-7
+PNT	Mountain Standard Time	-7
+SystemV/MST7	Mountain Standard Time	-7
+SystemV/MST7MDT	Mountain Standard Time	-7
+US/Arizona	Mountain Standard Time	-7
+US/Mountain	Mountain Standard Time	-7
+America/Bahia_Banderas	Central Standard Time	-6
+America/Belize	Central Standard Time	-6
+America/Cancun	Central Standard Time	-6
+America/Chicago	Central Standard Time	-6
+America/Costa_Rica	Central Standard Time	-6
+America/El_Salvador	Central Standard Time	-6
+America/Guatemala	Central Standard Time	-6
+America/Indiana/Knox	Central Standard Time	-6
+America/Indiana/Tell_City	Central Standard Time	-6
+America/Knox_IN	Central Standard Time	-6
+America/Managua	Central Standard Time	-6
+America/Matamoros	Central Standard Time	-6
+America/Menominee	Central Standard Time	-6
+America/Merida	Central Standard Time	-6
+America/Mexico_City	Central Standard Time	-6
+America/Monterrey	Central Standard Time	-6
+America/North_Dakota/Beulah	Central Standard Time	-6
+America/North_Dakota/Center	Central Standard Time	-6
+America/North_Dakota/New_Salem	Central Standard Time	-6
+America/Rainy_River	Central Standard Time	-6
+America/Rankin_Inlet	Central Standard Time	-6
+America/Regina	Central Standard Time	-6
+America/Resolute	Eastern Standard Time	-6
+America/Swift_Current	Central Standard Time	-6
+America/Tegucigalpa	Central Standard Time	-6
+America/Winnipeg	Central Standard Time	-6
+CST	Central Standard Time	-6
+CST6CDT	Central Standard Time	-6
+Canada/Central	Central Standard Time	-6
+Canada/East-Saskatchewan	Central Standard Time	-6
+Canada/Saskatchewan	Central Standard Time	-6
+Chile/EasterIsland	Easter Is. Time	-6
+Etc/GMT+6	GMT-06:00	-6
+Mexico/General	Central Standard Time	-6
+Pacific/Easter	Easter Is. Time	-6
+Pacific/Galapagos	Galapagos Time	-6
+SystemV/CST6	Central Standard Time	-6
+SystemV/CST6CDT	Central Standard Time	-6
+US/Central	Central Standard Time	-6
+US/Indiana-Starke	Central Standard Time	-6
+America/Atikokan	Eastern Standard Time	-5
+America/Bogota	Colombia Time	-5
+America/Cayman	Eastern Standard Time	-5
+America/Coral_Harbour	Eastern Standard Time	-5
+America/Detroit	Eastern Standard Time	-5
+America/Fort_Wayne	Eastern Standard Time	-5
+America/Grand_Turk	Eastern Standard Time	-5
+America/Guayaquil	Ecuador Time	-5
+America/Havana	Cuba Standard Time	-5
+America/Indiana/Indianapolis	Eastern Standard Time	-5
+America/Indiana/Marengo	Eastern Standard Time	-5
+America/Indiana/Petersburg	Eastern Standard Time	-5
+America/Indiana/Vevay	Eastern Standard Time	-5
+America/Indiana/Vincennes	Eastern Standard Time	-5
+America/Indiana/Winamac	Eastern Standard Time	-5
+America/Indianapolis	Eastern Standard Time	-5
+America/Iqaluit	Eastern Standard Time	-5
+America/Jamaica	Eastern Standard Time	-5
+America/Kentucky/Louisville	Eastern Standard Time	-5
+America/Kentucky/Monticello	Eastern Standard Time	-5
+America/Lima	Peru Time	-5
+America/Louisville	Eastern Standard Time	-5
+America/Montreal	Eastern Standard Time	-5
+America/Nassau	Eastern Standard Time	-5
+America/New_York	Eastern Standard Time	-5
+America/Nipigon	Eastern Standard Time	-5
+America/Panama	Eastern Standard Time	-5
+America/Pangnirtung	Eastern Standard Time	-5
+America/Port-au-Prince	Eastern Standard Time	-5
+America/Thunder_Bay	Eastern Standard Time	-5
+America/Toronto	Eastern Standard Time	-5
+Canada/Eastern	Eastern Standard Time	-5
+Cuba	Cuba Standard Time	-5
+EST	Eastern Standard Time	-5
+EST5EDT	Eastern Standard Time	-5
+Etc/GMT+5	GMT-05:00	-5
+IET	Eastern Standard Time	-5
+Jamaica	Eastern Standard Time	-5
+SystemV/EST5	Eastern Standard Time	-5
+SystemV/EST5EDT	Eastern Standard Time	-5
+US/East-Indiana	Eastern Standard Time	-5
+US/Eastern	Eastern Standard Time	-5
+US/Michigan	Eastern Standard Time	-5
+America/Caracas	Venezuela Time	-4.5
+America/Anguilla	Atlantic Standard Time	-4
+America/Antigua	Atlantic Standard Time	-4
+America/Argentina/San_Luis	Western Argentine Time	-4
+America/Aruba	Atlantic Standard Time	-4
+America/Asuncion	Paraguay Time	-4
+America/Barbados	Atlantic Standard Time	-4
+America/Blanc-Sablon	Atlantic Standard Time	-4
+America/Boa_Vista	Amazon Time	-4
+America/Campo_Grande	Amazon Time	-4
+America/Cuiaba	Amazon Time	-4
+America/Curacao	Atlantic Standard Time	-4
+America/Dominica	Atlantic Standard Time	-4
+America/Eirunepe	Amazon Time	-4
+America/Glace_Bay	Atlantic Standard Time	-4
+America/Goose_Bay	Atlantic Standard Time	-4
+America/Grenada	Atlantic Standard Time	-4
+America/Guadeloupe	Atlantic Standard Time	-4
+America/Guyana	Guyana Time	-4
+America/Halifax	Atlantic Standard Time	-4
+America/Kralendijk	GMT-04:00	-4
+America/La_Paz	Bolivia Time	-4
+America/Lower_Princes	GMT-04:00	-4
+America/Manaus	Amazon Time	-4
+America/Marigot	Atlantic Standard Time	-4
+America/Martinique	Atlantic Standard Time	-4
+America/Moncton	Atlantic Standard Time	-4
+America/Montserrat	Atlantic Standard Time	-4
+America/Port_of_Spain	Atlantic Standard Time	-4
+America/Porto_Acre	Amazon Time	-4
+America/Porto_Velho	Amazon Time	-4
+America/Puerto_Rico	Atlantic Standard Time	-4
+America/Rio_Branco	Amazon Time	-4
+America/Santiago	Chile Time	-4
+America/Santo_Domingo	Atlantic Standard Time	-4
+America/St_Barthelemy	Atlantic Standard Time	-4
+America/St_Kitts	Atlantic Standard Time	-4
+America/St_Lucia	Atlantic Standard Time	-4
+America/St_Thomas	Atlantic Standard Time	-4
+America/St_Vincent	Atlantic Standard Time	-4
+America/Thule	Atlantic Standard Time	-4
+America/Tortola	Atlantic Standard Time	-4
+America/Virgin	Atlantic Standard Time	-4
+Antarctica/Palmer	Chile Time	-4
+Atlantic/Bermuda	Atlantic Standard Time	-4
+Atlantic/Stanley	Falkland Is. Time	-4
+Brazil/Acre	Amazon Time	-4
+Brazil/West	Amazon Time	-4
+Canada/Atlantic	Atlantic Standard Time	-4
+Chile/Continental	Chile Time	-4
+Etc/GMT+4	GMT-04:00	-4
+PRT	Atlantic Standard Time	-4
+SystemV/AST4	Atlantic Standard Time	-4
+SystemV/AST4ADT	Atlantic Standard Time	-4
+America/St_Johns	Newfoundland Standard Time	-3.5
+CNT	Newfoundland Standard Time	-3.5
+Canada/Newfoundland	Newfoundland Standard Time	-3.5
+AGT	Argentine Time	-3
+America/Araguaina	Brasilia Time	-3
+America/Argentina/Buenos_Aires	Argentine Time	-3
+America/Argentina/Catamarca	Argentine Time	-3
+America/Argentina/ComodRivadavia	Argentine Time	-3
+America/Argentina/Cordoba	Argentine Time	-3
+America/Argentina/Jujuy	Argentine Time	-3
+America/Argentina/La_Rioja	Argentine Time	-3
+America/Argentina/Mendoza	Argentine Time	-3
+America/Argentina/Rio_Gallegos	Argentine Time	-3
+America/Argentina/Salta	Argentine Time	-3
+America/Argentina/San_Juan	Argentine Time	-3
+America/Argentina/Tucuman	Argentine Time	-3
+America/Argentina/Ushuaia	Argentine Time	-3
+America/Bahia	Brasilia Time	-3
+America/Belem	Brasilia Time	-3
+America/Buenos_Aires	Argentine Time	-3
+America/Catamarca	Argentine Time	-3
+America/Cayenne	French Guiana Time	-3
+America/Cordoba	Argentine Time	-3
+America/Fortaleza	Brasilia Time	-3
+America/Godthab	Western Greenland Time	-3
+America/Jujuy	Argentine Time	-3
+America/Maceio	Brasilia Time	-3
+America/Mendoza	Argentine Time	-3
+America/Miquelon	Pierre & Miquelon Standard Time	-3
+America/Montevideo	Uruguay Time	-3
+America/Paramaribo	Suriname Time	-3
+America/Recife	Brasilia Time	-3
+America/Rosario	Argentine Time	-3
+America/Santarem	Brasilia Time	-3
+America/Sao_Paulo	Brasilia Time	-3
+Antarctica/Rothera	Rothera Time	-3
+BET	Brasilia Time	-3
+Brazil/East	Brasilia Time	-3
+Etc/GMT+3	GMT-03:00	-3
+America/Noronha	Fernando de Noronha Time	-2
+Atlantic/South_Georgia	South Georgia Standard Time	-2
+Brazil/DeNoronha	Fernando de Noronha Time	-2
+Etc/GMT+2	GMT-02:00	-2
+America/Scoresbysund	Eastern Greenland Time	-1
+Atlantic/Azores	Azores Time	-1
+Atlantic/Cape_Verde	Cape Verde Time	-1
+Etc/GMT+1	GMT-01:00	-1
+Africa/Abidjan	Greenwich Mean Time	0
+Africa/Accra	Ghana Mean Time	0
+Africa/Bamako	Greenwich Mean Time	0
+Africa/Banjul	Greenwich Mean Time	0
+Africa/Bissau	Greenwich Mean Time	0
+Africa/Casablanca	Western European Time	0
+Africa/Conakry	Greenwich Mean Time	0
+Africa/Dakar	Greenwich Mean Time	0
+Africa/El_Aaiun	Western European Time	0
+Africa/Freetown	Greenwich Mean Time	0
+Africa/Lome	Greenwich Mean Time	0
+Africa/Monrovia	Greenwich Mean Time	0
+Africa/Nouakchott	Greenwich Mean Time	0
+Africa/Ouagadougou	Greenwich Mean Time	0
+Africa/Sao_Tome	Greenwich Mean Time	0
+Africa/Timbuktu	Greenwich Mean Time	0
+America/Danmarkshavn	Greenwich Mean Time	0
+Atlantic/Canary	Western European Time	0
+Atlantic/Faeroe	Western European Time	0
+Atlantic/Faroe	Western European Time	0
+Atlantic/Madeira	Western European Time	0
+Atlantic/Reykjavik	Greenwich Mean Time	0
+Atlantic/St_Helena	Greenwich Mean Time	0
+Eire	Greenwich Mean Time	0
+Etc/GMT	GMT+00:00	0
+Etc/GMT+0	GMT+00:00	0
+Etc/GMT-0	GMT+00:00	0
+Etc/GMT0	GMT+00:00	0
+Etc/Greenwich	Greenwich Mean Time	0
+Etc/UCT	Coordinated Universal Time	0
+Etc/UTC	Coordinated Universal Time	0
+Etc/Universal	Coordinated Universal Time	0
+Etc/Zulu	Coordinated Universal Time	0
+Europe/Belfast	Greenwich Mean Time	0
+Europe/Dublin	Greenwich Mean Time	0
+Europe/Guernsey	Greenwich Mean Time	0
+Europe/Isle_of_Man	Greenwich Mean Time	0
+Europe/Jersey	Greenwich Mean Time	0
+Europe/Lisbon	Western European Time	0
+Europe/London	Greenwich Mean Time	0
+GB	Greenwich Mean Time	0
+GB-Eire	Greenwich Mean Time	0
+GMT	Greenwich Mean Time	0
+GMT0	GMT+00:00	0
+Greenwich	Greenwich Mean Time	0
+Iceland	Greenwich Mean Time	0
+Portugal	Western European Time	0
+UCT	Coordinated Universal Time	0
+UTC	Coordinated Universal Time	0
+Universal	Coordinated Universal Time	0
+WET	Western European Time	0
+Zulu	Coordinated Universal Time	0
+Africa/Algiers	Central European Time	1
+Africa/Bangui	Western African Time	1
+Africa/Brazzaville	Western African Time	1
+Africa/Ceuta	Central European Time	1
+Africa/Douala	Western African Time	1
+Africa/Kinshasa	Western African Time	1
+Africa/Lagos	Western African Time	1
+Africa/Libreville	Western African Time	1
+Africa/Luanda	Western African Time	1
+Africa/Malabo	Western African Time	1
+Africa/Ndjamena	Western African Time	1
+Africa/Niamey	Western African Time	1
+Africa/Porto-Novo	Western African Time	1
+Africa/Tunis	Central European Time	1
+Africa/Windhoek	Western African Time	1
+Arctic/Longyearbyen	Central European Time	1
+Atlantic/Jan_Mayen	Central European Time	1
+CET	Central European Time	1
+ECT	Central European Time	1
+Etc/GMT-1	GMT+01:00	1
+Europe/Amsterdam	Central European Time	1
+Europe/Andorra	Central European Time	1
+Europe/Belgrade	Central European Time	1
+Europe/Berlin	Central European Time	1
+Europe/Bratislava	Central European Time	1
+Europe/Brussels	Central European Time	1
+Europe/Budapest	Central European Time	1
+Europe/Copenhagen	Central European Time	1
+Europe/Gibraltar	Central European Time	1
+Europe/Ljubljana	Central European Time	1
+Europe/Luxembourg	Central European Time	1
+Europe/Madrid	Central European Time	1
+Europe/Malta	Central European Time	1
+Europe/Monaco	Central European Time	1
+Europe/Oslo	Central European Time	1
+Europe/Paris	Central European Time	1
+Europe/Podgorica	Central European Time	1
+Europe/Prague	Central European Time	1
+Europe/Rome	Central European Time	1
+Europe/San_Marino	Central European Time	1
+Europe/Sarajevo	Central European Time	1
+Europe/Skopje	Central European Time	1
+Europe/Stockholm	Central European Time	1
+Europe/Tirane	Central European Time	1
+Europe/Vaduz	Central European Time	1
+Europe/Vatican	Central European Time	1
+Europe/Vienna	Central European Time	1
+Europe/Warsaw	Central European Time	1
+Europe/Zagreb	Central European Time	1
+Europe/Zurich	Central European Time	1
+MET	Middle Europe Time	1
+Poland	Central European Time	1
+ART	Eastern European Time	2
+Africa/Blantyre	Central African Time	2
+Africa/Bujumbura	Central African Time	2
+Africa/Cairo	Eastern European Time	2
+Africa/Gaborone	Central African Time	2
+Africa/Harare	Central African Time	2
+Africa/Johannesburg	South Africa Standard Time	2
+Africa/Kigali	Central African Time	2
+Africa/Lubumbashi	Central African Time	2
+Africa/Lusaka	Central African Time	2
+Africa/Maputo	Central African Time	2
+Africa/Maseru	South Africa Standard Time	2
+Africa/Mbabane	South Africa Standard Time	2
+Africa/Tripoli	Eastern European Time	2
+Asia/Amman	Eastern European Time	2
+Asia/Beirut	Eastern European Time	2
+Asia/Damascus	Eastern European Time	2
+Asia/Gaza	Eastern European Time	2
+Asia/Hebron	GMT+02:00	2
+Asia/Istanbul	Eastern European Time	2
+Asia/Jerusalem	Israel Standard Time	2
+Asia/Nicosia	Eastern European Time	2
+Asia/Tel_Aviv	Israel Standard Time	2
+CAT	Central African Time	2
+EET	Eastern European Time	2
+Egypt	Eastern European Time	2
+Etc/GMT-2	GMT+02:00	2
+Europe/Athens	Eastern European Time	2
+Europe/Bucharest	Eastern European Time	2
+Europe/Chisinau	Eastern European Time	2
+Europe/Helsinki	Eastern European Time	2
+Europe/Istanbul	Eastern European Time	2
+Europe/Kiev	Eastern European Time	2
+Europe/Mariehamn	Eastern European Time	2
+Europe/Nicosia	Eastern European Time	2
+Europe/Riga	Eastern European Time	2
+Europe/Simferopol	Eastern European Time	2
+Europe/Sofia	Eastern European Time	2
+Europe/Tallinn	Eastern European Time	2
+Europe/Tiraspol	Eastern European Time	2
+Europe/Uzhgorod	Eastern European Time	2
+Europe/Vilnius	Eastern European Time	2
+Europe/Zaporozhye	Eastern European Time	2
+Israel	Israel Standard Time	2
+Libya	Eastern European Time	2
+Turkey	Eastern European Time	2
+Africa/Addis_Ababa	Eastern African Time	3
+Africa/Asmara	Eastern African Time	3
+Africa/Asmera	Eastern African Time	3
+Africa/Dar_es_Salaam	Eastern African Time	3
+Africa/Djibouti	Eastern African Time	3
+Africa/Juba	GMT+03:00	3
+Africa/Kampala	Eastern African Time	3
+Africa/Khartoum	Eastern African Time	3
+Africa/Mogadishu	Eastern African Time	3
+Africa/Nairobi	Eastern African Time	3
+Antarctica/Syowa	Syowa Time	3
+Asia/Aden	Arabia Standard Time	3
+Asia/Baghdad	Arabia Standard Time	3
+Asia/Bahrain	Arabia Standard Time	3
+Asia/Kuwait	Arabia Standard Time	3
+Asia/Qatar	Arabia Standard Time	3
+Asia/Riyadh	Arabia Standard Time	3
+EAT	Eastern African Time	3
+Etc/GMT-3	GMT+03:00	3
+Europe/Kaliningrad	Eastern European Time	3
+Europe/Minsk	Eastern European Time	3
+Indian/Antananarivo	Eastern African Time	3
+Indian/Comoro	Eastern African Time	3
+Indian/Mayotte	Eastern African Time	3
+Asia/Riyadh87	GMT+03:07	3.1177777778
+Asia/Riyadh88	GMT+03:07	3.1177777778
+Asia/Riyadh89	GMT+03:07	3.1177777778
+Mideast/Riyadh87	GMT+03:07	3.1177777778
+Mideast/Riyadh88	GMT+03:07	3.1177777778
+Mideast/Riyadh89	GMT+03:07	3.1177777778
+Asia/Tehran	Iran Standard Time	3.5
+Iran	Iran Standard Time	3.5
+Asia/Baku	Azerbaijan Time	4
+Asia/Dubai	Gulf Standard Time	4
+Asia/Muscat	Gulf Standard Time	4
+Asia/Tbilisi	Georgia Time	4
+Asia/Yerevan	Armenia Time	4
+Etc/GMT-4	GMT+04:00	4
+Europe/Moscow	Moscow Standard Time	4
+Europe/Samara	Samara Time	4
+Europe/Volgograd	Volgograd Time	4
+Indian/Mahe	Seychelles Time	4
+Indian/Mauritius	Mauritius Time	4
+Indian/Reunion	Reunion Time	4
+NET	Armenia Time	4
+W-SU	Moscow Standard Time	4
+Asia/Kabul	Afghanistan Time	4.5
+Antarctica/Mawson	Mawson Time	5
+Asia/Aqtau	Aqtau Time	5
+Asia/Aqtobe	Aqtobe Time	5
+Asia/Ashgabat	Turkmenistan Time	5
+Asia/Ashkhabad	Turkmenistan Time	5
+Asia/Dushanbe	Tajikistan Time	5
+Asia/Karachi	Pakistan Time	5
+Asia/Oral	Oral Time	5
+Asia/Samarkand	Uzbekistan Time	5
+Asia/Tashkent	Uzbekistan Time	5
+Etc/GMT-5	GMT+05:00	5
+Indian/Kerguelen	French Southern & Antarctic Lands Time	5
+Indian/Maldives	Maldives Time	5
+PLT	Pakistan Time	5
+Asia/Calcutta	India Standard Time	5.5
+Asia/Colombo	India Standard Time	5.5
+Asia/Kolkata	India Standard Time	5.5
+IST	India Standard Time	5.5
+Asia/Kathmandu	Nepal Time	5.75
+Asia/Katmandu	Nepal Time	5.75
+Antarctica/Vostok	Vostok Time	6
+Asia/Almaty	Alma-Ata Time	6
+Asia/Bishkek	Kirgizstan Time	6
+Asia/Dacca	Bangladesh Time	6
+Asia/Dhaka	Bangladesh Time	6
+Asia/Qyzylorda	Qyzylorda Time	6
+Asia/Thimbu	Bhutan Time	6
+Asia/Thimphu	Bhutan Time	6
+Asia/Yekaterinburg	Yekaterinburg Time	6
+BST	Bangladesh Time	6
+Etc/GMT-6	GMT+06:00	6
+Indian/Chagos	Indian Ocean Territory Time	6
+Asia/Rangoon	Myanmar Time	6.5
+Indian/Cocos	Cocos Islands Time	6.5
+Antarctica/Davis	Davis Time	7
+Asia/Bangkok	Indochina Time	7
+Asia/Ho_Chi_Minh	Indochina Time	7
+Asia/Hovd	Hovd Time	7
+Asia/Jakarta	West Indonesia Time	7
+Asia/Novokuznetsk	Novosibirsk Time	7
+Asia/Novosibirsk	Novosibirsk Time	7
+Asia/Omsk	Omsk Time	7
+Asia/Phnom_Penh	Indochina Time	7
+Asia/Pontianak	West Indonesia Time	7
+Asia/Saigon	Indochina Time	7
+Asia/Vientiane	Indochina Time	7
+Etc/GMT-7	GMT+07:00	7
+Indian/Christmas	Christmas Island Time	7
+VST	Indochina Time	7
+Antarctica/Casey	Western Standard Time (Australia)	8
+Asia/Brunei	Brunei Time	8
+Asia/Choibalsan	Choibalsan Time	8
+Asia/Chongqing	China Standard Time	8
+Asia/Chungking	China Standard Time	8
+Asia/Harbin	China Standard Time	8
+Asia/Hong_Kong	Hong Kong Time	8
+Asia/Kashgar	China Standard Time	8
+Asia/Krasnoyarsk	Krasnoyarsk Time	8
+Asia/Kuala_Lumpur	Malaysia Time	8
+Asia/Kuching	Malaysia Time	8
+Asia/Macao	China Standard Time	8
+Asia/Macau	China Standard Time	8
+Asia/Makassar	Central Indonesia Time	8
+Asia/Manila	Philippines Time	8
+Asia/Shanghai	China Standard Time	8
+Asia/Singapore	Singapore Time	8
+Asia/Taipei	China Standard Time	8
+Asia/Ujung_Pandang	Central Indonesia Time	8
+Asia/Ulaanbaatar	Ulaanbaatar Time	8
+Asia/Ulan_Bator	Ulaanbaatar Time	8
+Asia/Urumqi	China Standard Time	8
+Australia/Perth	Western Standard Time (Australia)	8
+Australia/West	Western Standard Time (Australia)	8
+CTT	China Standard Time	8
+Etc/GMT-8	GMT+08:00	8
+Hongkong	Hong Kong Time	8
+PRC	China Standard Time	8
+Singapore	Singapore Time	8
+Australia/Eucla	Central Western Standard Time (Australia)	8.75
+Asia/Dili	Timor-Leste Time	9
+Asia/Irkutsk	Irkutsk Time	9
+Asia/Jayapura	East Indonesia Time	9
+Asia/Pyongyang	Korea Standard Time	9
+Asia/Seoul	Korea Standard Time	9
+Asia/Tokyo	Japan Standard Time	9
+Etc/GMT-9	GMT+09:00	9
+JST	Japan Standard Time	9
+Japan	Japan Standard Time	9
+Pacific/Palau	Palau Time	9
+ROK	Korea Standard Time	9
+ACT	Central Standard Time (Northern Territory)	9.5
+Australia/Adelaide	Central Standard Time (South Australia)	9.5
+Australia/Broken_Hill	Central Standard Time (South Australia/New South Wales)	9.5
+Australia/Darwin	Central Standard Time (Northern Territory)	9.5
+Australia/North	Central Standard Time (Northern Territory)	9.5
+Australia/South	Central Standard Time (South Australia)	9.5
+Australia/Yancowinna	Central Standard Time (South Australia/New South Wales)	9.5
+AET	Eastern Standard Time (New South Wales)	10
+Antarctica/DumontDUrville	Dumont-d'Urville Time	10
+Asia/Yakutsk	Yakutsk Time	10
+Australia/ACT	Eastern Standard Time (New South Wales)	10
+Australia/Brisbane	Eastern Standard Time (Queensland)	10
+Australia/Canberra	Eastern Standard Time (New South Wales)	10
+Australia/Currie	Eastern Standard Time (New South Wales)	10
+Australia/Hobart	Eastern Standard Time (Tasmania)	10
+Australia/Lindeman	Eastern Standard Time (Queensland)	10
+Australia/Melbourne	Eastern Standard Time (Victoria)	10
+Australia/NSW	Eastern Standard Time (New South Wales)	10
+Australia/Queensland	Eastern Standard Time (Queensland)	10
+Australia/Sydney	Eastern Standard Time (New South Wales)	10
+Australia/Tasmania	Eastern Standard Time (Tasmania)	10
+Australia/Victoria	Eastern Standard Time (Victoria)	10
+Etc/GMT-10	GMT+10:00	10
+Pacific/Chuuk	Chuuk Time	10
+Pacific/Guam	Chamorro Standard Time	10
+Pacific/Port_Moresby	Papua New Guinea Time	10
+Pacific/Saipan	Chamorro Standard Time	10
+Pacific/Truk	Chuuk Time	10
+Pacific/Yap	Chuuk Time	10
+Australia/LHI	Lord Howe Standard Time	10.5
+Australia/Lord_Howe	Lord Howe Standard Time	10.5
+Antarctica/Macquarie	Macquarie Island Time	11
+Asia/Sakhalin	Sakhalin Time	11
+Asia/Vladivostok	Vladivostok Time	11
+Etc/GMT-11	GMT+11:00	11
+Pacific/Efate	Vanuatu Time	11
+Pacific/Guadalcanal	Solomon Is. Time	11
+Pacific/Kosrae	Kosrae Time	11
+Pacific/Noumea	New Caledonia Time	11
+Pacific/Pohnpei	Pohnpei Time	11
+Pacific/Ponape	Pohnpei Time	11
+SST	Solomon Is. Time	11
+Pacific/Norfolk	Norfolk Time	11.5
+Antarctica/McMurdo	New Zealand Standard Time	12
+Antarctica/South_Pole	New Zealand Standard Time	12
+Asia/Anadyr	Anadyr Time	12
+Asia/Kamchatka	Petropavlovsk-Kamchatski Time	12
+Asia/Magadan	Magadan Time	12
+Etc/GMT-12	GMT+12:00	12
+Kwajalein	Marshall Islands Time	12
+NST	New Zealand Standard Time	12
+NZ	New Zealand Standard Time	12
+Pacific/Auckland	New Zealand Standard Time	12
+Pacific/Fiji	Fiji Time	12
+Pacific/Funafuti	Tuvalu Time	12
+Pacific/Kwajalein	Marshall Islands Time	12
+Pacific/Majuro	Marshall Islands Time	12
+Pacific/Nauru	Nauru Time	12
+Pacific/Tarawa	Gilbert Is. Time	12
+Pacific/Wake	Wake Time	12
+Pacific/Wallis	Wallis & Futuna Time	12
+NZ-CHAT	Chatham Standard Time	12.75
+Pacific/Chatham	Chatham Standard Time	12.75
+Etc/GMT-13	GMT+13:00	13
+MIT	West Samoa Time	13
+Pacific/Apia	West Samoa Time	13
+Pacific/Enderbury	Phoenix Is. Time	13
+Pacific/Tongatapu	Tonga Time	13
+Etc/GMT-14	GMT+14:00	14
+Pacific/Kiritimati	Line Is. Time	14
